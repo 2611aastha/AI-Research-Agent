@@ -43,32 +43,24 @@ The system searches the web for relevant information, extracts content from mult
 
 User Query
 ↓
-
 Web Search
 ↓
-
 Content Extraction
 ↓
-
 Text Chunking
 ↓
-
 Embeddings Generation
 ↓
-
 FAISS Vector Store
 ↓
-
 Similarity Retrieval
 ↓
-
 LLM Analysis
 ↓
-
 Research Report Generation
 
 ---
-```text
+```
 
 AI-Research-Agent/
 │
