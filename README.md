@@ -61,7 +61,7 @@ Research Report Generation
 
 ---
 ```
-
+FOLDER STRUCTURE
 AI-Research-Agent/
 │
 ├── app.py                  # Main Streamlit application
@@ -69,9 +69,9 @@ AI-Research-Agent/
 ├── .env                    # Environment variables (excluded from Git)
 ├── .gitignore              # Git ignore rules
 └── README.md               # Project documentation
-
+```
 ## Installation
-
+```
 ### 1. Clone Repository
 
 ```bash
