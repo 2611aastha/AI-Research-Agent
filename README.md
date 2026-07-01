@@ -43,23 +43,40 @@ The system searches the web for relevant information, extracts content from mult
 
 User Query
 ↓
+
 Web Search
 ↓
+
 Content Extraction
 ↓
+
 Text Chunking
 ↓
+
 Embeddings Generation
 ↓
+
 FAISS Vector Store
 ↓
+
 Similarity Retrieval
 ↓
+
 LLM Analysis
 ↓
+
 Research Report Generation
 
 ---
+```text
+
+AI-Research-Agent/
+│
+├── app.py                  # Main Streamlit application
+├── requirements.txt        # Required Python packages
+├── .env                    # Environment variables (excluded from Git)
+├── .gitignore              # Git ignore rules
+└── README.md               # Project documentation
 
 ## Installation
 
